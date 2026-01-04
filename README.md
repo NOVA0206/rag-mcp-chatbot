@@ -1,4 +1,17 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/AI-RAG%20%2B%20MCP-red?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-Groq-purple?style=for-the-badge&logo=lightning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Workshop-Ready-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square"/>
+</p>
+
+<p align="center">
   <img src="https://media.craiyon.com/2025-07-10/061x5BtxT5KfD8uLMk2_Sg.webp" alt="AI Chatbot" width="100%" />
 </p>
 
@@ -15,7 +28,7 @@
 
 ---
 
-## 🎵 Theme Song — *Sunflower 🌻*  
+## 🎵 Theme Song : *Sunflower 🌻*  
 ### *(Spider-Man: Into the Spider-Verse)*
 
 <p align="center">
@@ -58,7 +71,7 @@ Just like Spider-Man, this chatbot is:
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhjZWg4MHBndHZxOWI5NmI5bWNpbHc2dzZ0cXh4Zm02b2h0bXRqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCTfyhYawdOXcFW/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -198,9 +211,15 @@ Topic: *RAG, MCP & Real-World AI Systems*
 
 MIT License © 2026
 
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/1xVhm7xJq8S7n9Kp5D/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd5YmV4azNkbmZ1OTZlOTd2ZTRqOHhvaXo0dHpwOXFvNDFqaWJ6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10hzvF9FTulLxK/giphy.gif" width="280"/>
 </p>
 
+<h3 align="center">🕷️ Thanks for swinging by the SpiderVerse 🕷️</h3>
 
-
+<p align="center">
+  <i>Built with responsibility. Designed with intelligence.</i><br/>
+  <b>RAG • MCP • AI • Systems</b>
+</p>
