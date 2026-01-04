@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.craiyon.com/2025-07-10/061x5BtxT5KfD8uLMk2_Sg.webp" alt="AI Chatbot" width="100%" height="60%" />
+  <img src="https://media.craiyon.com/2025-07-10/061x5BtxT5KfD8uLMk2_Sg.webp" alt="AI Chatbot" width="60%" />
 </p>
 
 <h1 align="center">🕸️ RAG + MCP Chatbot 🕷️</h1>
@@ -33,7 +33,7 @@
 
 <p align="center">
   🎧 <b>Play the theme while exploring the project:</b><br/>
-  <a href="https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P" target="_blank">
+  <a href="https://youtu.be/ApXoWvfEYVU?si=fdLLyefHJ6yD-ifM" target="_blank">
     <img src="https://i.pinimg.com/736x/fd/e2/a0/fde2a0e0e610a4f7e63fc24d41f637b1.jpg"/>
   </a>
 </p>
