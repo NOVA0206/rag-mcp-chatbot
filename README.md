@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.craiyon.com/2025-07-10/061x5BtxT5KfD8uLMk2_Sg.webp" alt="AI Chatbot" width="100%" />
+  <img src="https://media.craiyon.com/2025-07-10/061x5BtxT5KfD8uLMk2_Sg.webp" alt="AI Chatbot" width="100%" height="60%" />
 </p>
 
 <h1 align="center">🕸️ RAG + MCP Chatbot 🕷️</h1>
@@ -189,20 +189,11 @@ Students can:
 
 ---
 
-## 📈 Possible Enhancements
-
-* 🔄 Context viewer panel
-* 📚 Show RAG source documents in UI
-* 🌐 Cloud deployment (Render + Netlify)
-* 🎛️ Strict / Flexible RAG toggle
-* 📊 Chat analytics
-
----
 
 ## 👤 Author
 
-**Jeevan Jadhav**
-🕷️ Workshop Speaker & Developer
+**Jeevan Jadhav**<br>
+🕷️ Workshop Speaker & Developer<br>
 Topic: *RAG, MCP & Real-World AI Systems*
 
 ---
@@ -214,7 +205,7 @@ MIT License © 2026
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd5YmV4azNkbmZ1OTZlOTd2ZTRqOHhvaXo0dHpwOXFvNDFqaWJ6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10hzvF9FTulLxK/giphy.gif" width="280"/>
+  <img src="https://media1.tenor.com/m/R7nkgC8muZMAAAAd/bye-spider-man.gif width="280"/>
 </p>
 
 <h3 align="center">🕷️ Thanks for swinging by the SpiderVerse 🕷️</h3>
