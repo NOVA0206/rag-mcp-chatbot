@@ -192,7 +192,7 @@ Students can:
 
 ## 👤 Author
 
-**Jeevan Jadhav**<br>
+**Jeevan Ramesh Jadhav**<br>
 🕷️ Workshop Speaker & Developer<br>
 Topic: *RAG, MCP & Real-World AI Systems*
 
