@@ -83,7 +83,7 @@ Just like Spider-Man, this chatbot is:
 
 ---
 
-### 🧠 MCP + RAG Backend Flow
+### 🧠 MCP + RAG Backend
 ![Backend Flow](./Backend.png)
 
 ---
