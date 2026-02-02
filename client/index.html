@@ -200,7 +200,7 @@
       messageInput.value = "";
       sendButton.disabled = true;
 
-      fetch("http://localhost:5000/chat", {
+      fetch("https://rag-mcp-chatbot.onrender.com/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: text })
